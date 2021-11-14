@@ -5,5 +5,5 @@
 
 int main()
 {
-    std::cout << "Pozdrav iz aplikacije od Kristine Bešlić\n";
+    std::cout << "Pozdrav iz aplikacije od Kristine Bešlić, index: 4\n";
 }
